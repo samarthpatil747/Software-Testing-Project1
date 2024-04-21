@@ -23,39 +23,38 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Templates
 
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
 ## Project 1
 
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
 ## Project 2
 
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
 ## Project 3
 
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
-Test Plan I have created a Test Plan for the Project
+- Test Plan
+- Test Cases
+- Bug Report
+- RTM
+- Test Reports
+- Test Metrics
 
 Project name: What.
