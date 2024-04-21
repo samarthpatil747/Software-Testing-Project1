@@ -15,34 +15,41 @@ This repository contains a list of all the projects completed during my manual t
 
 To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
 
-Contributing
+## Contributing
 If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details. You can copy and paste this code into a Markdown file and modify the text as needed.
 
-Templates
+## Templates
+
 Test Plan
 Test Cases
 Bug Report
 RTM
 Test Reports
 Test Metrics
-Project 1
+
+## Project 1
+
 Test Plan
 Test Cases
 Bug Report
 RTM
 Test Reports
 Test Metrics
-Project 2
+
+## Project 2
+
 Test Plan
 Test Cases
 Bug Report
 RTM
 Test Reports
 Test Metrics
-Project 3
+
+## Project 3
+
 Test Plan
 Test Cases
 Bug Report
